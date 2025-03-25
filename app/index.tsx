@@ -71,7 +71,7 @@ const App = () => {
       
       {/* Add Task Button */}
       <TouchableOpacity style={styles.addButton} onPress={addTask}>
-        <Text style={styles.addButtonText}>Add Task you wish to do
+        <Text style={styles.addButtonText}>Add Task 
         </Text>
       </TouchableOpacity>
       
